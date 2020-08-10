@@ -5,7 +5,7 @@ INSERT INTO Album (Nome, DataLancamento,QTDMinutos,Ativo)
 VALUES ('Robalo','2012-03-06T10:29:23','35 minutos','nao');
 
 INSERT INTO Artista (Nome)
-VALUES ('Geovanne');
+VALUES ('Claudemir');
 
 INSERT INTO Estilo (Nome)
 VALUES ('Pagode');

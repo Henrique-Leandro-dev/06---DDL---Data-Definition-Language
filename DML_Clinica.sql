@@ -8,7 +8,7 @@ INSERT INTO Clinica (Nome, Endereco)
 VALUES ('Clinica Tadeu Pets', 'Av.Ipiranga 24');
 
 INSERT INTO Pet (Nome, DataNascimento)
-VALUES ('Cebola', '2017-03-06T10:29:23');
+VALUES ('Cleitinho', '2014-08-02T10:29:23');
 
 INSERT INTO RACA ( Descricao)
 VALUES ('Poodle');
