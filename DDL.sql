@@ -64,7 +64,7 @@ GO
 --Criar a tabela de TipoPet
 CREATE TABLE TipoPet (
 IdTipoPet INT PRIMARY KEY IDENTITY NOT NULL,
-Descricao VARCHAR(200),
+Descricao VARCHAR(200)
 );
 GO
 
